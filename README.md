@@ -14,6 +14,9 @@
 </p>
 
 ---
+<p align="center">
+  📄 <a href="Recearch_paper.pdf"><strong>Full Research Paper</strong></a>
+</p>
 
 ## Overview
 This project implements an Electronic Differential (E-Differential) system designed to replace conventional mechanical differentials in electric and hybrid vehicles. Instead of using physical gears to balance power, this system leverages real-time data processing and software algorithms to manage the speed of each wheel independently. 
